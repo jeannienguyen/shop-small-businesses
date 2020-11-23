@@ -21,11 +21,15 @@ export const Menu = () => {
 
     let link = document.querySelector('a[href="' + hash + '"]');
     link.classList.add("is-active");
+
+    if (window.innerWidth <= 480) {
+      document.getElementById("mobile-menu").click();
+    }
     scrollToHash(hash);
   }
 
   return (
-    <Col id="menu" className="menu" lg={4}>
+    <Col id="menu" className="menu" sm={12} md={4}>
       <Wrapper>
         {businesses.map(({ id, group }) => (
           <li key={id}>

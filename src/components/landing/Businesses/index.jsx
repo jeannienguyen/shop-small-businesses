@@ -6,7 +6,7 @@ import externalLinkIcon from "../../../assets/icons/external-link.svg";
 
 export const Businesses = () => {
   return (
-    <Col lg={8}>
+    <Col sm={12} md={8}>
       {businesses.map(({ id, group, companies }) => (
         <Wrapper key={id} id={"#" + group.replace(/ /g, "-").toLowerCase()}>
           <h2>{group}</h2>

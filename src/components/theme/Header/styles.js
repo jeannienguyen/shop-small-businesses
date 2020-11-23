@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
   text-align: center;
-  padding: 2rem 15px 0;
+  // padding: 2rem 0;
 
   @media (max-width: 768px) {
     display: flex;

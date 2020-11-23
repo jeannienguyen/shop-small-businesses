@@ -12,11 +12,14 @@ export const Wrapper = styled.ul`
         color: #fff;
       }
     }
-    a:hover {
-      color: #7fddd6;
-    }
-    a.is-active {
-      color: #7fddd6;
+
+    @media (min-width: 769px) {
+      a:hover {
+        color: #7fddd6;
+      }
+      a.is-active {
+        color: #7fddd6;
+      }
     }
   }
 

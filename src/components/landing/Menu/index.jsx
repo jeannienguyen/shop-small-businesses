@@ -1,8 +1,7 @@
 import React from "react";
 import { Col } from "react-bootstrap";
-import { Wrapper, CloseButton } from "./styles";
+import { Wrapper } from "./styles";
 import businesses from "../Businesses/businesses.json";
-import closeButton from "../../../assets/icons/close-button.png";
 
 export const Menu = () => {
   function scrollToHash(hash) {

@@ -16,13 +16,19 @@ export const Global = createGlobalStyle`
 
         @media (max-width: 768px) {
             .menu {
-                display: none;
+                opacity: 0;
                 position: absolute;
                 background: #7fddd6;
                 z-index: 1;
+                transition: opacity .5s ease-in-out;
+                -moz-transition: opacity .5s ease-in-out;
+                -webkit-transition: opacity .5s ease-in-out;
             }
             .menu-open {
-                display: block;
+                opacity: 1;
+                transition: opacity .5s ease-in-out;
+                -moz-transition: opacity .5s ease-in-out;
+                -webkit-transition: opacity .5s ease-in-out;
             }
         }
     }

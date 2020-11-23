@@ -19,6 +19,7 @@ export const Wrapper = styled.ul`
       }
       a.is-active {
         color: #7fddd6;
+        text-decoration: underline;
       }
     }
   }

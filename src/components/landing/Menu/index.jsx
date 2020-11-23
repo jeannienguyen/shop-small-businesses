@@ -11,18 +11,21 @@ export const Menu = () => {
     });
   }
 
-  function setActiveLinkAndScrollToHash(hash) {
+  function removeActiveLinks() {
     let anchorSelector = 'a[href^="#"]';
     let anchorList = document.querySelectorAll(anchorSelector);
 
     anchorList.forEach(link => {
       link.classList.remove("is-active");
     });
+  }
 
-    let link = document.querySelector('a[href="' + hash + '"]');
+  function setActiveLinkAndScrollToHash(hash) {
+    removeActiveLinks();
+    let link = document.querySelector('a[href="#' + hash + '"]');
     link.classList.add("is-active");
 
-    if (window.innerWidth <= 480) {
+    if (window.innerWidth <= 768) {
       document.getElementById("mobile-menu").click();
     }
     scrollToHash(hash);
@@ -37,7 +40,7 @@ export const Menu = () => {
               href={"#" + group.replace(/ /g, "-").toLowerCase()}
               onClick={() =>
                 setActiveLinkAndScrollToHash(
-                  "#" + group.replace(/ /g, "-").toLowerCase()
+                  group.replace(/ /g, "-").toLowerCase()
                 )
               }
             >

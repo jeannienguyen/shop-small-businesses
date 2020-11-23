@@ -19,7 +19,8 @@ export const MobileMenu = styled.div`
     display: block;
     width: 18px;
     height: 12px;
-    position: relative;
+    position: fixed;
+    right: 2rem;
     z-index: 2;
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);

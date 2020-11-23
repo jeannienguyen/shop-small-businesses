@@ -8,7 +8,7 @@ export const Businesses = () => {
   return (
     <Col sm={12} md={8}>
       {businesses.map(({ id, group, companies }) => (
-        <Wrapper key={id} id={"#" + group.replace(/ /g, "-").toLowerCase()}>
+        <Wrapper key={id} id={group.replace(/ /g, "-").toLowerCase()}>
           <h2>{group}</h2>
           {companies.map(({ id, name, link, description }) => (
             <div key={id}>

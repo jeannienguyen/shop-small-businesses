@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "group": "Shopping General",
+        "companies": [
+            {
+                "id": 0,
+                "name": "Ebay",
+                "link": "https://www.ebay.com/",
+                "description": "Selection of new items rivals Amazon and selection of used items dwarfs it; you’ll often find lower prices, too. Shipping charges vary widely and are often free. Yes, as a testament to Juggernaut Jeff's ever growing power, many ebay sellers use Amazon to warehouse, pack and ship their orders. To avoid this, ask the seller whether they use Fulfilled by Amazon, or watch out for sellers with no physical address who offer 2-day shipping."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "group": "Apparel and Fashion",
+        "companies": [
+            {
+                "id": 0,
+                "name": "thredUP",
+                "link": "https://www.thredup.com/",
+                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+            },
+            {
+                "id": 1,
+                "name": "thredUP",
+                "link": "https://www.thredup.com/",
+                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "group": "Games",
+        "companies": [
+            {
+                "id": 0,
+                "name": "thredUP",
+                "link": "https://www.thredup.com/",
+                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+            },
+            {
+                "id": 1,
+                "name": "thredUP",
+                "link": "https://www.thredup.com/",
+                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+            },
+            {
+                "id": 2,
+                "name": "thredUP",
+                "link": "https://www.thredup.com/",
+                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+            },
+            {
+                "id": 3,
+                "name": "thredUP",
+                "link": "https://www.thredup.com/",
+                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+            },
+            {
+                "id": 4,
+                "name": "thredUP",
+                "link": "https://www.thredup.com/",
+                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+            }
+        ]
+    }
+]

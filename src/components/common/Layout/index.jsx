@@ -3,7 +3,6 @@ import { Row } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Header, Footer } from "components/theme";
 import { Global, Container } from "./styles";
-// import './fonts.css';
 
 export const Layout = ({ children }) => {
   return (

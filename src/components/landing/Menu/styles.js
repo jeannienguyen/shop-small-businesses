@@ -1,9 +1,10 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.ul`
-  list-style-type: none;
-  padding: 0;
+  font-family: "Montserrat";
   font-size: 1.2rem;
+  padding: 0;
+  list-style-type: none;
 
   li {
     a {
@@ -19,13 +20,19 @@ export const Wrapper = styled.ul`
       }
       a.is-active {
         color: #7fddd6;
-        text-decoration: underline;
+        font-weight: bold;
+        border-left: 4px solid #7fddd6;
+        padding-left: 0.5rem;
       }
+    }
+
+    @media (max-width: 768px) {
+      margin: 0.5rem 0;
     }
   }
 
   @media (max-width: 768px) {
-    padding-top: 1.5rem;
+    padding-top: 4rem;
     text-align: center;
   }
 `;

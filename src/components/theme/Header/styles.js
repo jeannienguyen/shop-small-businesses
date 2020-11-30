@@ -2,30 +2,47 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
   text-align: center;
-  // padding: 2rem 0;
+
+  @media (min-width: 769px) {
+    padding: 2rem 0;
+  }
 
   @media (max-width: 768px) {
     display: flex;
     align-items: center;
     justify-content: space-between;
     text-align: left;
+    padding: 0.5rem 0 0;
+  }
+`;
+
+export const MobileMenuBackground = styled.div`
+  display: none;
+  height: 35px;
+  width: 35px;
+  position: fixed;
+  right: 2rem;
+  z-index: 2;
+  background: #000;
+  border-radius: 50%;
+
+  @media (max-width: 768px) {
+    display: block;
   }
 `;
 
 export const MobileMenu = styled.div`
-  display: none;
-
   @media (max-width: 768px) {
-    display: block;
     width: 18px;
-    height: 12px;
-    position: fixed;
-    right: 2rem;
-    z-index: 2;
-    -webkit-transform: rotate(0deg);
-    -moz-transform: rotate(0deg);
-    -o-transform: rotate(0deg);
-    transform: rotate(0deg);
+    height: 18px;
+    position: absolute;
+    top: 20px;
+    left: 17px;
+    transform: translate(-50%, -50%);
+    // -webkit-transform: rotate(0deg);
+    // -moz-transform: rotate(0deg);
+    // -o-transform: rotate(0deg);
+    // transform: rotate(0deg);
     -webkit-transition: 0.5s ease-in-out;
     -moz-transition: 0.5s ease-in-out;
     -o-transition: 0.5s ease-in-out;

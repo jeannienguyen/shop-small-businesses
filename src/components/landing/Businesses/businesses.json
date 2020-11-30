@@ -1,13 +1,13 @@
 [
     {
         "id": 0,
-        "group": "Shopping General",
+        "group": "Accessories",
         "companies": [
             {
                 "id": 0,
-                "name": "Ebay",
-                "link": "https://www.ebay.com/",
-                "description": "Selection of new items rivals Amazon and selection of used items dwarfs it; you’ll often find lower prices, too. Shipping charges vary widely and are often free. Yes, as a testament to Juggernaut Jeff's ever growing power, many ebay sellers use Amazon to warehouse, pack and ship their orders. To avoid this, ask the seller whether they use Fulfilled by Amazon, or watch out for sellers with no physical address who offer 2-day shipping."
+                "name": "PINA FINA ",
+                "link": "https://www.pinafina.com/",
+                "description": "An online jewelry and apparel boutique based out of Chicago."
             }
         ]
     },
@@ -17,51 +17,135 @@
         "companies": [
             {
                 "id": 0,
-                "name": "thredUP",
-                "link": "https://www.thredup.com/",
-                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+                "name": "Kinda Fit Kinda Fat Apparel",
+                "link": "https://kindafitkindafat.com/",
+                "description": "Kinda Fit Kinda Fat has created a community dedicated to those who love fitness and food, a community where you can and should be proud of your body no matter what stage of the fitness journey you're on."
             },
             {
                 "id": 1,
-                "name": "thredUP",
-                "link": "https://www.thredup.com/",
-                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+                "name": "LUVERS ONLY",
+                "link": "https://www.luversonly.com/",
+                "description": "LUVERS ONLY is a Southern California clothing brand that strives to bring you garments that help create a sense of peace and harmony within oneself and the community."
+            },
+            {
+                "id": 2,
+                "name": "Mondaysuck",
+                "link": "https://www.mondaysuck.com/",
+                "description": "Mondaysuck is a clothing brand based out of San Diego. Heavily influenced by streetwear culture and the West Coast vibe, they strive on the idea of delivering original and simplistic pieces that belong in your closet."
+            },
+            {
+                "id": 3,
+                "name": "ShopDenimDesigns",
+                "link": "https://www.etsy.com/shop/shopdenimdesigns/",
+                "description": "Hand-painted denim jackets, bleach band tees, and tie dye sweatshirts - help a student pay for her college expenses and save up for post-graduation!"
             }
         ]
     },
     {
         "id": 2,
-        "group": "Games",
+        "group": "Design and Stationary",
         "companies": [
             {
                 "id": 0,
-                "name": "thredUP",
-                "link": "https://www.thredup.com/",
-                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+                "name": "Angelique, Ink",
+                "link": "https://www.angeliqueink.com/",
+                "description": "Angelique, Ink by SoCal based Calligrapher, Angi Phillips: providing custom hand lettered design for brands and events worldwide, and teaching calligraphy to students everywhere."
             },
             {
                 "id": 1,
-                "name": "thredUP",
-                "link": "https://www.thredup.com/",
-                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+                "name": "M.Lovewell",
+                "link": "https://www.instagram.com/m.lovewell/",
+                "description": "A little shop of stationery goods & gifts + workshops!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "group": "Food and Baked Goods",
+        "companies": [
+            {
+                "id": 0,
+                "name": "A La Drizzle",
+                "link": "https://www.instagram.com/aladrizzle/",
+                "description": "Asian fusion baked goods! Located in Glendale, CA, A La Drizzle celebrates Asian fusion with ube bars & other rotating specials."
+            },
+            {
+                "id": 1,
+                "name": "The Birds & The Brie",
+                "link": "https://www.instagram.com/birdsandbriela/",
+                "description": "Custom cheese & charcuterie arrangements for any occasion! 72-hour notice required. Located in LA."
             },
             {
                 "id": 2,
-                "name": "thredUP",
-                "link": "https://www.thredup.com/",
-                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+                "name": "Fi & Me Baking Co.",
+                "link": "https://www.fiandmebakingco.com/",
+                "description": "They're a mother-daughter duo bringing delicious, gluten-free (& some vegan) sweets into your life. They've got cookies, muffins, and many other mouth-watering delights!"
             },
             {
                 "id": 3,
-                "name": "thredUP",
-                "link": "https://www.thredup.com/",
-                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+                "name": "HaiDonut",
+                "link": "https://www.instagram.com/haidonutla/",
+                "description": "HaiDonut makes gluten-free artisan butter mochi donuts - home-baked fresh with every order. Based in Torrance, CA."
             },
             {
                 "id": 4,
-                "name": "thredUP",
-                "link": "https://www.thredup.com/",
-                "description": "Kinda like a humongous online thrift store with 2 million items, all the conveniences of digital searching and deep discounts on fancy brands (and not-fancy ones too—they have 35k brands on the site). Free shipping on orders over $79 and a mission to \"inspire a new generation of shoppers to think secondhand first.\" Want to sell? They’ll send you a huge polka-dot bag that fits all the clothes you no longer wear. Ship it back for FREE and they’ll inspect, photograph, and list your items."
+                "name": "MICA MAKES",
+                "link": "https://www.instagram.com/micamakess/",
+                "description": "Ube and Buko Pandan crinkle cookies - located in the Upland/Rancho area. Pickup only!"
+            },
+            {
+                "id": 5,
+                "name": "Shubis Poke",
+                "link": "https://www.instagram.com/shubispoke/",
+                "description": "Hawaiian-style poke & musubis - located in Walnut/Diamond Bar area."
+            },
+            {
+                "id": 6,
+                "name": "Sweet Pal O' Mine Bakeshop",
+                "link": "https://www.sweetpalominebakeshop.com/",
+                "description": "Sweet Pal O' Mine Bakeshop creates more than just dessert for you, they create memories for all your special life events! Custom cakes and specialty desserts made from scratch using only fresh and real ingredients."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "group": "Fitness",
+        "companies": [
+            {
+                "id": 0,
+                "name": "Personal Training - Bodybuilding, Nutrition & Diet",
+                "link": "https://www.instagram.com/jen_varon/",
+                "description": "Want to reach your fitness and nutrition goals? Start a healthy eating habit that'll stick? Jen will help you reach your goals - training & nutrition plans tailored specifically for you."
+            },
+            {
+                "id": 1,
+                "name": "Personal Training - Powerlifting, Strongman, Nutrition & Diet",
+                "link": "https://www.stanleymurkland.com/",
+                "description": "If you want to start strength training, look no further. Stanley has expertise in powerlifting, strongman, and more. Whatever your strength or fitness goals are, he'll help you get there."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "group": "Home Decor",
+        "companies": [
+            {
+                "id": 0,
+                "name": "Bouquets en Papier",
+                "link": "https://www.bouquetsenpapier.com/shop/",
+                "description": "Flowers that last forever! Bouquets en Papier creates paper flower bouquets. Every bouquet purchase plants a tree with non-profit One Tree Planted."
+            },
+            {
+                "id": 1,
+                "name": "Superbloom Co.",
+                "link": "https://superbloom.co/",
+                "description": "A mom-owned company that's built on crafting anything & everything fun! From stickers and ornaments to mugs and planters, there's something here for everyone to love."
+            },
+            {
+                "id": 2,
+                "name": "Slowbound",
+                "link": "https://slowbound.com/",
+                "description": "Hand-poured, 100% soy candles! Each candle is made with clean fragrance oils, with a burn life of 40-50 hours. Slowbound was created with the intention of self-care and to remind us that it's okay to slow down!"
             }
         ]
     }

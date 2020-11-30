@@ -1,5 +1,5 @@
 import React from "react";
-import { Wrapper, MobileMenu } from "./styles";
+import { Wrapper, MobileMenuBackground, MobileMenu } from "./styles";
 
 export const Header = () => {
   function toggleMobileMenu() {
@@ -8,21 +8,21 @@ export const Header = () => {
     if (!mobileMenuButton.classList.contains("open")) {
       mobileMenuButton.classList.add("open");
       menu.classList.add("menu-open");
-      document.body.classList.add("menu-fixed");
     } else {
       mobileMenuButton.classList.remove("open");
       menu.classList.remove("menu-open");
-      document.body.classList.remove("menu-fixed");
     }
   }
 
   return (
     <Wrapper>
-      <div>Shop Small Businesses</div>
-      <MobileMenu id="mobile-menu" onClick={() => toggleMobileMenu()}>
-        <span></span>
-        <span></span>
-      </MobileMenu>
+      <h1>shop small businesses</h1>
+      <MobileMenuBackground>
+        <MobileMenu id="mobile-menu" onClick={() => toggleMobileMenu()}>
+          <span></span>
+          <span></span>
+        </MobileMenu>
+      </MobileMenuBackground>
     </Wrapper>
   );
 };

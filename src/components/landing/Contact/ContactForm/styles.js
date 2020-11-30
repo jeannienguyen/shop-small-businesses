@@ -8,6 +8,7 @@ export const Center = styled.div`
   text-align: right;
 
   h4 {
+    font-size: 1.2rem;
     font-weight: normal;
   }
 

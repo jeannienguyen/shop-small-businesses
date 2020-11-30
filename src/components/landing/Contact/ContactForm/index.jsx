@@ -105,7 +105,10 @@ export default () => (
         {values.success && (
           <InputField>
             <Center>
-              <h4>Thanks for reaching out! I'll get back to you soon.</h4>
+              <h4>
+                Thanks for your interest! We'll send you an email after we
+                review and add your business.
+              </h4>
             </Center>
           </InputField>
         )}
